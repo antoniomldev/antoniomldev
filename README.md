@@ -14,7 +14,7 @@ You can check some of my Open Source Projects here.
 
 You can reach me out in.
 
-- Email: [machadoa953@gmail.com](mailto://machadoa953@gmail.com)
+- Email: [machadoa953@gmail.com](mailto:machadoa953@gmail.com)
 - Linkedin: [Antonio Machado](https://www.linkedin.com/in/antoniomldev/)
 
 
