@@ -6,9 +6,7 @@ I am a software developer passionate about automation, clean code, open source, 
 
 You can check some of my Open Source Projects here.
 
-- [VidzCLI](https://github.com/antoniomldev/vidzcli) - This is an Open Source CLI to download videos, mainly Youtube videos, made entirely in C#.
-
-- [PayPalSharp](https://github.com/antoniomldev/vidzcli) - This is an unofficial SDK for PayPal API to help developer connect with them. Made entirely in C#.
+- [VidzCLI](https://github.com/antoniomldev/vidzcli) - This is an Open Source CLI to download videos, mainly Youtube videos, made entirely in NodeJS.
 
 ---
 
